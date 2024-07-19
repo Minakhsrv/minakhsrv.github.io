@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+.x1{ margin-top: 70px;}
+.p3{margin: 40px;}
+.banner {
+	
+	background-image: url( "./../images/00.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:200px 00px ;
+	background-position: center;
+	direction: ltr;
+}
+
+.banner .caption {
+	background-color: rgba(250,250,250,0.9);
+	padding: 30px;
+	max-width: 450px;
+	direction: rtl;
+}
+
+.banner .caption h2 {
+	margin-top: 0px;
+	margin-bottom: 15px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #1e1e1e;
+}
+
+.banner .caption  {
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+.line-dec1{
+   text-align: right;
+  
+}
+.carousel-indicators{margin: 0px;
+padding:0px;}
+.footer_section{
+	margin: 10px;
+	padding: 5px;
+}
+.footer-info{
+  margin-top: 50px;
+  text-align:center;
+
+}
+.submail{
+	width: 270px;
+}
+.about{
+	padding-top: 80px;
+}
+.contact{
+	margin-top: 90px;
+}
